@@ -1,0 +1,57 @@
+num_trees best value is: 50
+Now training tree 0
+Now training tree 1
+Now training tree 2
+Now training tree 3
+Now training tree 4
+Now training tree 5
+Now training tree 6
+Now training tree 7
+Now training tree 8
+Now training tree 9
+Now training tree 10
+Now training tree 11
+Now training tree 12
+Now training tree 13
+Now training tree 14
+Now training tree 15
+Now training tree 16
+Now training tree 17
+Now training tree 18
+Now training tree 19
+Now training tree 20
+Now training tree 21
+Now training tree 22
+Now training tree 23
+Now training tree 24
+Now training tree 25
+Now training tree 26
+Now training tree 27
+Now training tree 28
+Now training tree 29
+Now training tree 30
+Now training tree 31
+Now training tree 32
+Now training tree 33
+Now training tree 34
+Now training tree 35
+Now training tree 36
+Now training tree 37
+Now training tree 38
+Now training tree 39
+Now training tree 40
+Now training tree 41
+Now training tree 42
+Now training tree 43
+Now training tree 44
+Now training tree 45
+Now training tree 46
+Now training tree 47
+Now training tree 48
+Now training tree 49
+1721 training examples correct out of 15000
+training success rate: 0.11473333333333334
+499 testing examples correct out of 5000
+testing success rate: 0.0998
+
+Process finished with exit code 0
